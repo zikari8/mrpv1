@@ -88,7 +88,7 @@ monogatari.characters ({
 
 	'p': {
 		name: '{{p.f}}',
-		color: '#5bcaff'
+		color: '#ff3300'
 	},
 
 	'n': {
@@ -99,7 +99,7 @@ monogatari.characters ({
 	//Main Characters
 	'l': {
 		name: 'Lisa',
-		color: '#5bcaff',
+		color: '#ff99ff',
 		directory: 'Lisa', 
         sprites: {
             normal: 'Normal.png',
@@ -112,7 +112,7 @@ monogatari.characters ({
 	},
 	'm': {
 		name: 'Mafuyu',
-		color: '#5bcaff',
+		color: '#3399ff',
 		directory: 'Mafuyu', 
         sprites: {
             normal: 'Normal.png',
@@ -125,7 +125,7 @@ monogatari.characters ({
 	},
 	'g': {
 		name: 'Genevieve',
-		color: '#5bcaff',
+		color: '#cc66ff',
 		directory: 'Genevieve', 
         sprites: {
             normal: 'Normal.png',
@@ -136,7 +136,7 @@ monogatari.characters ({
 	},
 	'i': {
 		name: 'Iris',
-		color: '#5bcaff',
+		color: '#ffcc00',
 		directory: 'Iris', 
         sprites: {
             normal: 'Normal.png',
@@ -149,7 +149,7 @@ monogatari.characters ({
 	},
 	't': {
 		name: 'Tania',
-		color: '#5bcaff',
+		color: '#66ff66',
 		directory: 'Tania', 
         sprites: {
             normal: 'Normal.png',
@@ -161,7 +161,7 @@ monogatari.characters ({
 	},
 	'b': {
 		name: 'Brook',
-		color: '#5bcaff',
+		color: '#66ffcc',
 		directory: 'Brook', 
         sprites: {
             normal: 'Normal.png',
