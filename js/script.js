@@ -581,7 +581,7 @@ monogatari.script ({
 	'Dormitory': [
 		"show scene Dorm_Day with fadeIn duration 2s",
 		"wait 1500",
-		"centered 12:07 PM, August 30th, 2020",
+		"centered 12:07 PM, August 30th, 2025",
 		"n With the tour over, we retrieve our luggage from the car and drag it over to our final destination for the day: the student dormitory.",
 		"n It's a four-story building that looks rather old, not unlike the school building. It seems that all of the students are required to live here at the moment.",
 		"show character g normal at leftish with fadeIn",
@@ -1154,7 +1154,7 @@ monogatari.script ({
 		"n Oi, oi, what happened to the no-killing rule? Is this chick insane?",
 		"n I try to quickly leap out of the way, but my feet suddenly don't move. Could it be that pinning the shadow also pins the target in place too?",
 		"n In that case, I can't dodge any longer. I have no choice, but to counter-attack.",
-		"b Haaahh...",
+		"p Haaahh...",
 		"n Taking a deep breath, I bring my magic circuits to life. Energy flows through every part of my body as I ready my counter blow.",
 		"n Tania doesn't seem to notice it and continues chargin at me blindly, assured of her victory.",
 		"show character t normal with fadeIn duration 0.5s",
