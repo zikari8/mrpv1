@@ -652,7 +652,7 @@ monogatari.script ({
 	'Unpack': [
 		"show scene Room_Day with fadeIn duration 2s",
 		"wait 2000",
-		"centered 12:13 PM, August 30th, 2020",
+		"centered 12:13 PM, August 30th, 2025",
 		"n Lugging our bads up the stairs to the second floor, Iris and I finally reach our new abode for the next four years.",
 		"n It's a modest looking room with two beds and two small desks. It's very student-like, so I suppose it's to be expected. In fact, it's actually larger than I had imagined.",
 		"show character i eager with fadeInRight",
@@ -893,7 +893,7 @@ monogatari.script ({
 	'Afternoon': [
 		"show scene Lob_Day with fadeIn duration 2s",
 		"wait 2000",
-		"centered 4:47 PM, August 30th, 2020",
+		"centered 4:47 PM, August 30th, 2025",
 		"n After lunch, I helped Lisa wash the dishes and the rest of her chores. As expected, her chore load is a damn lot even when divided between the two of us.",
 		"n Naturally, as we work together, we end up chatting about meaningless things.",
 		"show character l normal with fadeIn",
@@ -1001,7 +1001,7 @@ monogatari.script ({
 	'Bush': [
 		'show scene Hall_Day with fadeIn duration 2s',
 		"wait 2000",
-		"centered 5:29 PM, August 30th, 2020",
+		"centered 5:29 PM, August 30th, 2025",
 		"show character l normal",
 		"l All right, that's everything. Thanks a lot, {{p.f}}.",
 		"p Like I said, you don't need to thank me. I'm just doing this because I want to.",
@@ -1070,7 +1070,7 @@ monogatari.script ({
 	'Assault': [
 		"show scene Campus_Night with fadeIn duration 2s",
 		"wait 2000",
-		"centered 9:03 PM, August 30th, 2020",
+		"centered 9:03 PM, August 30th, 2025",
 		"n After dinner, I helped clean up and wash the dishes with Lisa, before going on a night walk under the guise of burning some calories.",
 		"n The night air feels cool and refreshing, reminding me of the sea breeze from the morning. I walk around the campus a bit, just taking in the scenery and counting how many people are out and about like me.",
 		"n Eventually, I come to clearing with no one around except the stars in the sky. Tranquil as the moon, I sigh and turn around.",
@@ -1255,7 +1255,7 @@ monogatari.script ({
 	'Sleep': [
 		"show scene Room_Night with fadeIn duration 2s",
 		"wait 2000",
-		"centered 10:32 PM, August 30th, 2020",
+		"centered 10:32 PM, August 30th, 2025",
 		"n I plop onto my bed feeling, surprisingly exhausted.",
 		"n Today was a real doozy, and I'm honestly ready to just clock out for the day.",
 		"n Things to do before I snooze... oh, right, I need to choose my department.",
